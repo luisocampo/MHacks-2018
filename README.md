@@ -2,6 +2,8 @@
 
 Created by: Claire Huang (UMich), Luis Ocampo (Missouri S&T), Amy An (WUSTL), Brian Tang (Mizzou)
 
+October 12 - 14, 2018 | University of Michigan
+
 <hr>
 
 We’re greedy when grocery shopping.
