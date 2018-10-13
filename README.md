@@ -1,4 +1,4 @@
-# MHacks-2018
+# MHacks 2018: walmart, but better
 
 We’re greedy when grocery shopping.
 
