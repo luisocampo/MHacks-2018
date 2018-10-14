@@ -1,0 +1,10 @@
+c:\users\amyan\source\repos\mhacksproject\mhacksproject\bin\Debug\mhacksproject.exe.config
+c:\users\amyan\source\repos\mhacksproject\mhacksproject\bin\Debug\mhacksproject.exe
+c:\users\amyan\source\repos\mhacksproject\mhacksproject\bin\Debug\mhacksproject.pdb
+c:\users\amyan\source\repos\mhacksproject\mhacksproject\obj\Debug\mhacksproject.csprojAssemblyReference.cache
+c:\users\amyan\source\repos\mhacksproject\mhacksproject\obj\Debug\mhacksproject.mHacksProject.resources
+c:\users\amyan\source\repos\mhacksproject\mhacksproject\obj\Debug\mhacksproject.Properties.Resources.resources
+c:\users\amyan\source\repos\mhacksproject\mhacksproject\obj\Debug\mhacksproject.csproj.GenerateResource.cache
+c:\users\amyan\source\repos\mhacksproject\mhacksproject\obj\Debug\mhacksproject.csproj.CoreCompileInputs.cache
+c:\users\amyan\source\repos\mhacksproject\mhacksproject\obj\Debug\mhacksproject.exe
+c:\users\amyan\source\repos\mhacksproject\mhacksproject\obj\Debug\mhacksproject.pdb
